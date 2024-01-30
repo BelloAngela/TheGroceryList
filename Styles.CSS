@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    color: #3eecec;
+} 
+
+
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.my-block{
+    display: inline-block;
+    background-color: rgb(145, 118, 169);
+    padding: 50px;
+    margin: 20px
+    
+    
+    
+}
+
+.mypic{
+    padding-left: 50px;
+    height: 180px;
+    width: auto;
+    
+
+    
+    
+}
+
+
+
+h2 {
+    
+    
+    border-style: solid;
+    border-width: medium;
+    width: 500px;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 30px;
+    background-color: rgb(242, 146, 181);
+}
+    
+   
+
+
+      
+
+  
+  
+
+  
